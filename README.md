@@ -1,3 +1,4 @@
+Ea, this project should be well documented as well , wkwk
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
