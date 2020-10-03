@@ -1,3 +1,20 @@
+# MERN Stack First Project
+
+## TabunganQ
+Stack MongoDB, Express, React, and NodeJS
+
+## Screenshot
+  
+![Home Page](https://raw.githubusercontent.com/mhmdbhsk/mern-stack-first/master/screenshot/first.png "HomePage") Home Page / Balance List Page
+
+
+![Create New Balance Page](https://raw.githubusercontent.com/mhmdbhsk/mern-stack-first/master/screenshot/second.png "Create New Balance") Create New Balance Page
+
+
+![Create New User](https://raw.githubusercontent.com/mhmdbhsk/mern-stack-first/master/screenshot/third.png "Create New User") Create New User Page
+
+<hr>
+
 Ea, this project should be well documented as well , wkwk
 
 hmmm, hoho buoy
