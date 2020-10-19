@@ -3,6 +3,8 @@
 ## TabunganQ
 Stack MongoDB, Express, React, and NodeJS
 
+-Description : This is the first project from me, which use MERn stack. The project based on Freecodecamp Tutorials on YouTube :https://www.youtube.com/watch?v=7CqJlxBYj-M. Thanks to FreeCodeCamp
+
 ## Screenshot
   
 ![Home Page](https://raw.githubusercontent.com/mhmdbhsk/mern-stack-first/master/screenshot/first.png "HomePage") Home Page / Balance List Page
